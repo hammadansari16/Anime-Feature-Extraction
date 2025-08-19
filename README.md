@@ -1,8 +1,8 @@
-🎬 Anime Feature Extraction
+Anime Feature Extraction
 
 This project focuses on feature extraction from an anime dataset using Python. The notebook preprocesses and analyzes anime-related data to extract meaningful features that can be used for tasks such as recommendation systems, clustering, and predictive modeling.
 
-🔑 Features
+Features
 
 1.Data cleaning and preprocessing of anime dataset
 2.Extraction of key features such as ratings, genres, popularity, and episodes
